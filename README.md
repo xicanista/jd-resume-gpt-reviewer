@@ -1,6 +1,6 @@
 # ✨ GPT-Powered Resume Critique Tool (Google Apps Script)
 
-This tool lets job seekers automatically critique their resume against one or more job descriptions using OpenAI’s GPT API — all from within Google Docs and Sheets.
+A tool that uses OpenAI’s GPT API to deliver fast, personalized resume critiques from inside Google Drive.
 
 It’s perfect for:
 - Job seekers tailoring resumes for their targeted role
