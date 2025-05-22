@@ -3,7 +3,7 @@
 This tool lets job seekers automatically critique their resume against one or more job descriptions using OpenAI’s GPT API — all from within Google Docs and Sheets.
 
 It’s perfect for:
-- Job seekers tailoring resumes for AI, tech, or startup roles
+- Job seekers tailoring resumes for their targeted role
 - Career coaches and bootcamps supporting job seekers
 - Anyone who wants smarter, faster, more personalized resume feedback
 
